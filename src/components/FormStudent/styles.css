@@ -1,0 +1,21 @@
+.wapper-form {
+  height: 80vh;
+  border-radius: 10px;
+  box-shadow: 5px 5px #ccc;
+  border: 1px solid black;
+  background: antiquewhite;
+}
+.info-form {
+  display: flex;
+  justify-content: center;
+  padding: 10px 0px;
+  border-bottom: 1px solid black;
+}
+.edit-search,
+.edit-btn {
+  height: 50px;
+  padding: 10px;
+}
+.btn-create {
+  padding-top: 15px !important;
+}
